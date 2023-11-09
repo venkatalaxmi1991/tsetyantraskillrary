@@ -16,7 +16,7 @@ import pomPages.CourseListPage;
 import pomPages.LoginPage;
 import pomPages.UsersPage;
 import pomPages.WelcomePage;
-
+//this is Base class
 public class BaseClass {
 
 	//@BeforeSuite
